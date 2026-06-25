@@ -461,7 +461,7 @@ function OrionLib:MakeNotification(NotificationConfig)
 
 		local NotificationFrame = Create("ImageLabel", {
 			Parent = NotificationParent,
-			Image = "rbxassetid://139180319698479",
+			Image = "rbxassetid://102725651047182",
 			ScaleType = Enum.ScaleType.Crop,
 			ImageTransparency = 0.2,
 			BackgroundTransparency = 1,
